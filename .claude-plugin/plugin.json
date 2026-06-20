@@ -1,0 +1,9 @@
+{
+    "name": "starci-be-skills",
+    "description": "StarCi Academy backend skills — NestJS/TypeScript coding conventions, local infra run, and module scaffolding for the starci-academy-backend monorepo.",
+    "version": "0.1.0",
+    "author": {
+        "name": "StarCi Academy",
+        "url": "https://github.com/starci183"
+    }
+}
